@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baozhuan888.github.io/</id>
     <title>宝赚官网</title>
-    <updated>2019-11-01T05:23:33.057Z</updated>
+    <updated>2019-11-01T05:32:06.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baozhuan888.github.io/"/>
     <link rel="self" href="https://baozhuan888.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://baozhuan888.github.io//images/avatar.png</logo>
     <icon>https://baozhuan888.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 宝赚官网</rights>
+    <entry>
+        <title type="html"><![CDATA[dfdfd]]></title>
+        <id>https://baozhuan888.github.io//post/dfdfd</id>
+        <link href="https://baozhuan888.github.io//post/dfdfd">
+        </link>
+        <updated>2019-11-01T05:31:40.000Z</updated>
+        <content type="html"><![CDATA[<p>dfdasdfasdf</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试标题]]></title>
         <id>https://baozhuan888.github.io//post/about</id>
