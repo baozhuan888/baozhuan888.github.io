@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baozhuan888.github.io/</id>
     <title>宝赚官网</title>
-    <updated>2019-11-07T05:13:19.894Z</updated>
+    <updated>2019-11-07T05:15:10.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baozhuan888.github.io/"/>
     <link rel="self" href="https://baozhuan888.github.io//atom.xml"/>
@@ -36,13 +36,12 @@
         <content type="html"><![CDATA[<p>🙈使用&lt;微阅读&gt;，首先第一步就是要获取阅读链接。我们将阅读链接的获取方式分为两种：</p>
 <!-- more -->
 <h2 id="第1种方式"><a href="https://baozhuan888.github.io/fn_first">🚀第1种方式</a></h2>
-<pre><code>以下APP阅读链接获取方式使用第2种
-</code></pre>
-<img src="https://pic.qqtn.com/up/2019-8/2019814125358503.png" style="width:60px;margin-left:1px">
+<p>以下APP阅读链接获取方式使用第2种<br>
+<img src="https://pic.qqtn.com/up/2019-8/2019814125358503.png" style="width:60px;margin-left:1px"></p>
 <!-- more -->
 <h2 id="第2种方式"><a href="https://baozhuan888.github.io/fn_two">🚀第2种方式</a></h2>
-<pre><code>以下APP阅读链接获取方式使用第2种
-</code></pre>
-<img src="https://pic.qqtn.com/up/2019-4/20194282053355271.png" style="width:60px;margin-left:1px">]]></content>
+<p>以下APP阅读链接获取方式使用第2种<br>
+<img src="https://pic.qqtn.com/up/2019-4/20194282053355271.png" style="width:60px;margin-left:1px"></p>
+]]></content>
     </entry>
 </feed>
