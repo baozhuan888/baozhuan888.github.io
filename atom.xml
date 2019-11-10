@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baozhuan888.github.io/</id>
     <title>宝赚官网</title>
-    <updated>2019-11-10T07:25:28.681Z</updated>
+    <updated>2019-11-10T07:35:07.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baozhuan888.github.io/"/>
     <link rel="self" href="https://baozhuan888.github.io//atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://baozhuan888.github.io//images/avatar.png</logo>
     <icon>https://baozhuan888.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 宝赚官网</rights>
+    <entry>
+        <title type="html"><![CDATA[重点平台充值流程]]></title>
+        <id>https://baozhuan888.github.io//post/Ahq_I1KXh</id>
+        <link href="https://baozhuan888.github.io//post/Ahq_I1KXh">
+        </link>
+        <updated>2019-11-10T03:24:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网赚-自动提取URL脚本（手机端）教程]]></title>
+        <id>https://baozhuan888.github.io//post/MbbFGnivu</id>
+        <link href="https://baozhuan888.github.io//post/MbbFGnivu">
+        </link>
+        <updated>2019-11-10T02:03:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网赚-如何提取URL链接教程]]></title>
+        <id>https://baozhuan888.github.io//post/Gk7dnDkPh</id>
+        <link href="https://baozhuan888.github.io//post/Gk7dnDkPh">
+        </link>
+        <updated>2019-11-10T01:57:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网赚-转阅系列平台使用教程]]></title>
+        <id>https://baozhuan888.github.io//post/BrAD4OxhQ</id>
+        <link href="https://baozhuan888.github.io//post/BrAD4OxhQ">
+        </link>
+        <updated>2019-11-09T08:40:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网赚-收徒赚系列教程]]></title>
+        <id>https://baozhuan888.github.io//post/g6wsmAQFB</id>
+        <link href="https://baozhuan888.github.io//post/g6wsmAQFB">
+        </link>
+        <updated>2019-11-08T18:30:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动阅读平台定期更新（强烈收藏）]]></title>
         <id>https://baozhuan888.github.io//post/fn_first</id>
